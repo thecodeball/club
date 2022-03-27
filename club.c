@@ -29,7 +29,7 @@
         code paths are as expected
 
  */
-// Coms
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
